@@ -35,6 +35,6 @@ Classification Reports
 
 Outputs precision, recall, F1-score, and accuracy for both train and test data
 
-Spam Detection Function
+# spam detection function
 
 detect_spam() function classifies new messages using any of the trained models.
