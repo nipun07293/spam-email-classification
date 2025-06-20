@@ -1,5 +1,5 @@
 # spam-email-classification
-**Data Preprocessing
+# Data Preprocessing
 
 Load dataset
 
@@ -9,7 +9,7 @@ Convert labels (spam/ham) to binary (1/0)
 
 Split into train and test sets
 
-**Model Building
+# Model Building
 
 Use CountVectorizer for text vectorization
 
@@ -21,7 +21,7 @@ Logistic Regression
 
 Decision Tree
 
-**Model Evaluation
+# Model Evaluation
 
 Custom evaluate_model() function computes:
 
